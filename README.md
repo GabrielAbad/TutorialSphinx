@@ -1,2 +1,0 @@
-# TutorialSphinx
-estudando sphinx
